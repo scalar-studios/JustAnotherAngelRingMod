@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#=#",
+    "GEG",
+    "==="
+  ],
+  "key": {
+    "#": "minecraft:feather",
+    "=": "minecraft:gold_ingot",
+    "G": "minecraft:gold_block",
+    "E": "minecraft:elytra"
+  },
+  "result": {
+    "id": "jaarm:angel_ring"
+  }
+}
